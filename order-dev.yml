@@ -17,5 +17,5 @@ server:
 env:
   dev-360
 bat:
-  name: Bruse
+  name: Bruse-BATMAN
   age: 16
