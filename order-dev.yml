@@ -15,4 +15,4 @@ eureka:
 server:
   port: 8081
 env:
-  dev-121
+  dev-360
